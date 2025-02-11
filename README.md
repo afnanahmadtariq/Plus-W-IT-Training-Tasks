@@ -7,9 +7,10 @@ The repository is organized by classes, with each assignment stored in its respe
 
 ### ✅ Completed Assignments
 - #### [Class 2 Assignment: Basic Python Concepts](./Class_2/Class_2_Assignment.md)
+- #### [Class 3 Assignment: Advanced Python Concepts](./Class_3/Class_3_Assignment.md)
 
 ### 🔄 Future Assignments
-- Class 3: [Future Topic]
+- Class 4: [Future Topic]
 
 ## 📌 How to Use
 1. Clone this repository:
