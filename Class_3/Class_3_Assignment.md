@@ -1,6 +1,6 @@
 # Class 3 Assignments
 
-This document summarizes the assignments completed in **Class 3** of the Plus W IT Training Program. The tasks focus on string manipulation, user input handling, and basic mathematical calculations.
+This document summarizes the assignments completed in **Class 3** of the Plus W IT Training Program. The tasks focus on branching iterations and functions in python.
 
 ## 📂 Directory Structure
 ```
