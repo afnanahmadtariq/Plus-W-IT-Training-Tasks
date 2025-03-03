@@ -18,19 +18,16 @@ Class 5/
 │   └── Task3/
 │       ├── quotes.csv
 │       └── Web_Data_Scraping.ipynb
-├──  Class Code/
-│   ├── practice/
-│   │   ├── Class_5.ipynb
-│   │   .
-│   │   .
-│   ├── Class5_LectureCode.ipynb
-│   ├── data.csv
-│   ├── data.db
-│   ├── data.json
-│   └── data.xls
-└── Images Used/
-    ├── image.jpeg
-    └── image.jpg
+└──  Class Code/
+    ├── practice/
+    │   ├── Class_5.ipynb
+    │   .
+    │   .
+    ├── Class5_LectureCode.ipynb
+    ├── data.csv
+    ├── data.db
+    ├── data.json
+    └── data.xls
 ```
 
 ## ❓ Questions
