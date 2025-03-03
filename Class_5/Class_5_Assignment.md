@@ -16,8 +16,8 @@ Class 5/
 │   │   ├── Stock_Market_Data_Collection.ipynb
 │   │   └── stocks.db
 │   └── Task3/
-│   │   ├── quotes.csv
-│   │   └── Web_Data_Scraping.ipynb
+│       ├── quotes.csv
+│       └── Web_Data_Scraping.ipynb
 ├──  Class Code/
 │   ├── practice/
 │   │   ├── Class_5.ipynb
