@@ -6,15 +6,15 @@ This document summarizes the assignments completed in **Class 7** of the Plus W 
 ```
 Class 7/
 ├── Assignment_Tasks/
-│   ├── customer_churn_data.csv
 │   ├── Customer_Churn_Prediction.ipynb
 │   ├── Energy_Consumption_Prediction.ipynb
-│   ├── house_data.csv
 │   ├── House_Price_Prediction_System.ipynb
-│   ├── owid-energy-data.csv
-│   ├── salary_data.csv
 │   ├── Salary_Prediction_System.ipynb
-│   └── Stock_Price_Trend_Prediction.ipynb
+│   ├── Stock_Price_Trend_Prediction.ipynb
+│   ├── customer_churn_data.csv
+│   ├── house_data.csv
+│   ├── owid-energy-data.csv
+│   └── salary_data.csv
 └──  Class Code/
     ├── Class_7_practice.ipynb
     └── Class_7.ipynb
