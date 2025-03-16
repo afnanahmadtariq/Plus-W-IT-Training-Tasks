@@ -12,9 +12,8 @@ The repository is organized by classes, with each assignment stored in its respe
 - #### [Class 5 Assignment: Automation, Data Handling, and Web Scraping](./Class_5/Class_5_Assignment.md)
 - #### [Class 6 Assignment: Data Visualization](./Class_6/Class_6_Assignment.md)
 - #### [Class 7 Assignment: Linear Regression](./Class_7/Class_7_Assignment.md)
+- #### [Class 8 Assignment: Support Vector Machines & Multiple Linear Regression](./Class_8/Class_8_Assignment.md)
 
-### 🔄 Future Assignments
-- Class 8: [Future Topic]
 
 ## 📌 How to Use
 1. Clone this repository:
