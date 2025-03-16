@@ -11,7 +11,7 @@ Class 6/
 │   ├── Customizing_Temperature_Trends.ipynb
 │   ├── Population_Growth_Visualization.ipynb
 │   └── Stock_Market_Trend_Analysis.ipynb
-└──  Class Code/
+└── Class Code/
     ├── Class_6_practice.ipynb
     ├── Class6.ipynb
     └── temperature.csv
