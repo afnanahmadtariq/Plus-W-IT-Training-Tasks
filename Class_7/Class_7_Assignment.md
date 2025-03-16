@@ -15,7 +15,7 @@ Class 7/
 │   ├── house_data.csv
 │   ├── owid-energy-data.csv
 │   └── salary_data.csv
-└──  Class Code/
+└── Class Code/
     ├── Class_7_practice.ipynb
     └── Class_7.ipynb
 ```
