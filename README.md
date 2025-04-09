@@ -5,7 +5,7 @@ This repository contains my assignments and tasks completed as part of the **Plu
 ## 📂 Repository Structure
 The repository is organized by classes, with each assignment stored in its respective folder.
 
-### ✅ Completed Assignments
+### ✅ Completed Class Assignments
 - #### [Class 2 Assignment: Basic Python Concepts](./Class_2/Class_2_Assignment.md)
 - #### [Class 3 Assignment: Advanced Python Concepts](./Class_3/Class_3_Assignment.md)
 - #### [Class 4 Assignment: Numerical Computing and Numpy](./Class_4/Class_4_Assignment.md)
@@ -13,6 +13,7 @@ The repository is organized by classes, with each assignment stored in its respe
 - #### [Class 6 Assignment: Data Visualization](./Class_6/Class_6_Assignment.md)
 - #### [Class 7 Assignment: Linear Regression](./Class_7/Class_7_Assignment.md)
 - #### [Class 8 Assignment: Support Vector Machines & Multiple Linear Regression](./Class_8/Class_8_Assignment.md)
+- #### [Class 9: The Importance of Requirement Analysis for AI Engineer & Developers](./Class_9/Class_9_Assignment.md)
 
 
 ## 📌 How to Use
