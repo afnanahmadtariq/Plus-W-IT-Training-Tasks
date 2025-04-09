@@ -14,7 +14,7 @@ The repository is organized by classes, with each assignment stored in its respe
 - #### [Class 7 Assignment: Linear Regression](./Class_7/Class_7_Assignment.md)
 - #### [Class 8 Assignment: Support Vector Machines & Multiple Linear Regression](./Class_8/Class_8_Assignment.md)
 - #### [Class 9: The Importance of Requirement Analysis for AI Engineer & Developers](./Class_9/Class_9_Assignment.md)
-- #### [Class 10: The Importance of Requirement Analysis for AI Engineer & Developers](./Class_10/Class_10_Assignment.md)
+- #### [Class 10: How to test any application for maintain quality in Japan](./Class_10/Class_10_Assignment.md)
 
 
 ## 📌 How to Use
