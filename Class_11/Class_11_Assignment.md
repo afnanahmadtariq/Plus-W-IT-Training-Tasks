@@ -41,7 +41,7 @@ The `Class-11` provides a brief theoretical overview of GitFlow, Agile, Waterfal
 ## 📂 Files Included
 
 - `game.html`: Interactive GitFlow game
-- `Agile vs Waterfall.html`: Agile methodologies quiz game
+- `agile-quiz-game.html`: Agile methodologies quiz game
 - `image1.png`: GitFlow Adventure screenshot
 - `image.png`: Agile Quiz Game screenshot
 
