@@ -17,6 +17,7 @@ The repository is organized by classes, with each assignment stored in its respe
 - #### [Class 10: How to test any application for maintain quality in Japan](./Class_10/Class_10_Assignment.md)
 - #### [Class 11: Version Control Flow, Agile and Waterfall methodology of software development cycle](./Class_11/Class_11_Assignment.md)
 - #### [Class 12: Importance of security compliance in building any software application](./Class_12/Class_12_Assignment.md)
+- #### [Class 13: Creating Virtual Linux Server on AWS](./Class_13/Class_13_Assignment.md)
 
 
 ## 📌 How to Use
