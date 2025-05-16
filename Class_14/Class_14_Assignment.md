@@ -13,7 +13,7 @@ This repository contains completed solutions for two beginner-to-intermediate le
 - Changing file ownership.
 - Monitoring system performance with commands like `uptime`, `df`, `free`, and `ps`.
 
-📝 Solution: `Assignment1.pdf`  
+📝 Solution: [Assignment1](Assignment1.pdf)
 
 ---
 
@@ -24,7 +24,7 @@ This repository contains completed solutions for two beginner-to-intermediate le
 - Assigning permissions and ownership.
 - Performing system-level commands to manage performance and troubleshoot.
 
-📝 Solution: `Assignment2.pdf`
+📝 Solution: [Assignment2](Assignment1.pdf)
 
 ---
 
