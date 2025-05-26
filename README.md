@@ -20,6 +20,7 @@ The repository is organized by classes, with each assignment stored in its respe
 - #### [Class 13: Creating Virtual Linux Server on AWS](./Class_13/Class_13_Assignment.md)
 - #### [Class 14: Linux User Management & File Permissions](./Class_14/Class_14_Assignment.md)
 - #### [Class 15: Linux Networking, Compression and Filtering Commands](./Class_15/Class_15_Assignment.md)
+- #### [Class 16: Bash scripting language and GitHub](./Class_16/Class_16_Assignment.md)
 
 ## 📌 How to Use
 1. Clone this repository:
