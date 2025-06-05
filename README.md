@@ -22,6 +22,7 @@ The repository is organized by classes, with each assignment stored in its respe
 - #### [Class 15: Linux Networking, Compression and Filtering Commands](./Class_15/Class_15_Assignment.md)
 - #### [Class 16: Bash scripting language and GitHub](./Class_16/Class_16_Assignment.md)
 - #### [Class 17: Docker and Docker Compose](./Class_17/Class_17_Assignment.md)
+- #### [Class 18: Containerize the web application](./Class_18/Class_18_Assignment.md)
 
 ## 📌 How to Use
 1. Clone this repository:
