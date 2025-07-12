@@ -145,14 +145,34 @@ ansible-playbook -i inventory.yml install_docker.yml
 
 ---
 
-## 8. Validation
+## 8. Validation with Ansible
 
 Check nginx and docker status on managed nodes:
 ```bash
 ansible -i inventory.yml server1 -m shell -a "systemctl status nginx"
 ansible -i inventory.yml all -m shell -a "systemctl status docker"
 ```
-![Validation Output](image-11.png)
-![Validation Screenshot](image-9.png)
+![Validation Output (Ansible)](image-11.png)
+![Validation Screenshot (Ansible)](image-9.png)
+
+---
+
+## 9. Direct Validation on Servers
+
+Check nginx and docker status directly on managed nodes:
+
+**Server1:**
+```bash
+systemctl status nginx
+systemctl status docker
+```
+![Nginx Status on Server1](image-12.png)
+![Docker Status on Server1](image-13.png)
+
+**Server2:**
+```bash
+systemctl status docker
+```
+![Docker Status on Server2](image-14.png)
 
 ---
