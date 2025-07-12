@@ -24,6 +24,7 @@ The repository is organized by classes, with each assignment stored in its respe
 - #### [Class 17: Docker and Docker Compose](./Class_17/Class_17_Assignment.md)
 - #### [Class 18: Containerize the web application](./Class_18/Class_18_Assignment.md)
 - #### [Class 19: IT Automation with Ansible and YAML](./Class_19/Class_19_Assignment.md)
+- #### [Class 20: Introduction of Django](./Class_20/Class_20_Assignment.md)
 
 ## 📌 How to Use
 1. Clone this repository:
